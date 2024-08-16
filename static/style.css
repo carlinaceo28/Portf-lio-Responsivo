@@ -71,6 +71,13 @@ html, body{
     color: #6f7180;
 }
 
+.nav-menu a:hover i,
+.nav-menu .active i,
+.nav-menu .active:focus,
+.nav-menu li:hover > a i {
+    
+    color: #149ddd;
+}
 
 #header .profile .social-links a:hover{
     background-color: #149ddd;
