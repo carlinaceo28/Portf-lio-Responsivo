@@ -82,3 +82,43 @@ html, body{
 #header .profile .social-links a:hover{
     background-color: #149ddd;
 }
+
+
+#main {
+    margin-left:300px;
+}
+
+section#inicio {
+    background-color: #212431;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+
+}
+
+section#inicio h2{
+    font-size: 4rem;
+    margin-right: 1rem;
+}
+
+section#inicio span#subtitle{
+    margin-right: 0.1rem;
+    font-size: 1.5rem;
+
+}
+
+.text-shadow {
+    text-shadow: 4px 4px 10px #000000;
+}
+
+section#inicio div#arraste{
+    width: 9rem;
+}
+
+section#inicio div#arraste a{
+   text-decoration: none;
+   color: #ffffff; 
+}
